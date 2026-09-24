@@ -1,3 +1,6 @@
 [submodule "sites"]
 	path = sites
 	url = http://0.0.0.0:3000/dma/sites.git
+[submodule "caddyfiles"]
+	path = caddyfiles
+	url = http://0.0.0.0:3000/dma/caddyfiles.git
