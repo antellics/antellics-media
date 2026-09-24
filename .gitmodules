@@ -4,3 +4,9 @@
 [submodule "caddyfiles"]
 	path = caddyfiles
 	url = http://0.0.0.0:3000/dma/caddyfiles.git
+[submodule "webless-lead-finder"]
+	path = webless-lead-finder
+	url = http://0.0.0.0:3000/dma/webless-lead-finder.git
+[submodule "caddyserver-scripts"]
+	path = caddyserver-scripts
+	url = http://0.0.0.0:3000/dma/caddyserver-scripts.git
