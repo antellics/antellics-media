@@ -10,3 +10,6 @@
 [submodule "caddyserver-scripts"]
 	path = caddyserver-scripts
 	url = http://0.0.0.0:3000/dma/caddyserver-scripts.git
+[submodule "caddy"]
+	path = caddy
+	url = http://0.0.0.0:3000/dma/caddy.git
